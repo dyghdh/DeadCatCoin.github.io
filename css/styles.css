@@ -9826,7 +9826,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .text-light {
-  color: #f8f9fa !important;
+  color: #9e9e9e !important;
 }
 
 a.text-light:hover, a.text-light:focus {
@@ -10239,7 +10239,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #d3687f;
+  background-color: #1a252f;
 }
 
 .video-container {
