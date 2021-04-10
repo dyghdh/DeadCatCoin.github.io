@@ -6092,7 +6092,7 @@ button.bg-primary:focus {
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #d3687f !important;
+  background-color: #1a252f !important;
 }
 
 .bg-success {
@@ -9786,7 +9786,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #1e4151 !important;
+  color: #1e4151 !important;w
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -10097,11 +10097,11 @@ h3 {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #1e4151;
+    color: #d3687f;
     background: #f2ede0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #1e4151;
+    color: #d3687f;
     background: #f2ede0;
   }
 
@@ -10234,7 +10234,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #1e4151;
+  background-color:#d3687f ;
   color: #fff;
 }
 
