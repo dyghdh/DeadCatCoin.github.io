@@ -6086,13 +6086,13 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #d3627f !important;
+  background-color: #d3687f !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #1a252f !important;
+  background-color: #d3687f !important;
 }
 
 .bg-success {
